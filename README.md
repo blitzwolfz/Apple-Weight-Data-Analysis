@@ -47,7 +47,7 @@ The script will output visualizations showing the original weight data, trends, 
 
 ## Example Visualization
 
-![Weight Trend and Forecast](path/to/your/image.png)
+![Weight Trend and Forecast](example.png)
 
 ## Requirements
 
